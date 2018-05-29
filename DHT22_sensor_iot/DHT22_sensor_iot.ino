@@ -1,4 +1,5 @@
 // Import required libraries
+// The Adafruit Library is imports the necessary information for the DHT22 interference.
 #include <Adafruit_Sensor.h>
 #include <DHT.h>
 #include <DHT_U.h>
@@ -13,7 +14,7 @@ float humidity;
 
 #define DHTTYPE DHT22   //DHT TYPE
 
-//GPIO2  Pin as input
+//GPIO2  Pin as input in esp8266
 #define DHTPIN D7       
 
 DHT dht(DHTPIN, DHTTYPE);
