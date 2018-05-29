@@ -5,7 +5,8 @@ author: Arnav
 ---
 
 # Node-MCU-DHT22-freeboard-IOT-dashboards
-[![Build Status](https://learn.adafruit.com/tmp36-temperature-sensor/using-a-temp-sensor)](https://freeboard.io/)
+[![Build Status](https://learn.adafruit.com/tmp36-temperature-sensor/using-a-temp-sensor)]
+(https://dweet.io/play/)
 
 > This repo contains the source code to help you get familiar with Adafruit/Sparkfun IoT using the Adafruit IoT DHT22 ESP8266 Interference.
 
