@@ -5,13 +5,13 @@ author: Arnav
 ---
 
 # Node-MCU-DHT22-freeboard-IOT-dashboards
-[![Build Status](https://learn.adafruit.com/tmp36-temperature-sensor/using-a-temp-sensor)](https://freeboard.io/)
+[![Build Status] (https://learn.adafruit.com/tmp36-temperature-sensor/using-a-temp-sensor)](https://freeboard.io/)
 
 > This repo contains the source code to help you get familiar with Adafruit/Sparkfun IoT using the Adafruit IoT DHT22 ESP8266 Interference.
 
 This repo contains an arduino application that runs on ESP8266 with a DHT22 temperature&humidity sensor, and then sends these data to your IoT hub/web-server. At the same time, this application receives Cloud-to-Device message from dweet.io, and uses Real Time web clouding on freeboard.io.
 
-## Create your Azure IoT hub
+## Create your Cloud IoT hub
 Follow [this page](https://freeboard.io/login) to login and register your device on freeboard.io
 
 ## Install board with your Arduino IDE
